@@ -2,7 +2,7 @@
 Chainer -- 一个灵活的神经网络框架
 ==================================================
 
-`Chainer <https://chainer.org>`_ 是一个强力，灵活并且直观对深度学习框架。
+`Chainer <https://chainer.org>`_ 是一个强力，灵活并且直观的深度学习框架。
 
 * Chainer 支持 CUDA，只需数行代码便可利用 GPU，也能轻松运行于数个 GPU。
 * Chainer 支持多种神经网络结构，包括前反馈网络，卷积网络，递归网络和循环网络，亦支持批次训练。
@@ -11,6 +11,14 @@ Chainer -- 一个灵活的神经网络框架
 .. toctree::
    :maxdepth: 2
    :caption: Chainer 文档
+
+   安装 <install>
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 其他
+
+   提示 <tips>
 
    论坛 <https://groups.google.com/forum/#!forum/chainer>
    实例 <https://github.com/chainer-community/awesome-chainer>
